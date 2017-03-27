@@ -8,7 +8,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: personality-insights-nodejs-tutorial
+  name: fuza test personality insights
   host: personality-insights-nodejs-tutorial
   disk_quota: 1024M
   services:
